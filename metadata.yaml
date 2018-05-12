@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39795'
     url: http://www.gutenberg.org/2009/agents/39795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39022#The-Dramatization-of-Bible-StoriesAn-experiment-in-the-religious-education-of-children
 gutenberg_issued: '2012-03-01'
 gutenberg_type: Text
 identifiers:
